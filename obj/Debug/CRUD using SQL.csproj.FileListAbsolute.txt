@@ -1,0 +1,10 @@
+F:\Microsoft VS Code\New folder\CRUD using SQL\bin\Debug\CRUD using SQL.exe.config
+F:\Microsoft VS Code\New folder\CRUD using SQL\bin\Debug\CRUD using SQL.exe
+F:\Microsoft VS Code\New folder\CRUD using SQL\bin\Debug\CRUD using SQL.pdb
+F:\Microsoft VS Code\New folder\CRUD using SQL\obj\Debug\CRUD using SQL.csproj.AssemblyReference.cache
+F:\Microsoft VS Code\New folder\CRUD using SQL\obj\Debug\CRUD_using_SQL.Form1.resources
+F:\Microsoft VS Code\New folder\CRUD using SQL\obj\Debug\CRUD_using_SQL.Properties.Resources.resources
+F:\Microsoft VS Code\New folder\CRUD using SQL\obj\Debug\CRUD using SQL.csproj.GenerateResource.cache
+F:\Microsoft VS Code\New folder\CRUD using SQL\obj\Debug\CRUD using SQL.csproj.CoreCompileInputs.cache
+F:\Microsoft VS Code\New folder\CRUD using SQL\obj\Debug\CRUD using SQL.exe
+F:\Microsoft VS Code\New folder\CRUD using SQL\obj\Debug\CRUD using SQL.pdb
