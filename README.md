@@ -5,7 +5,9 @@ Here you can insert data, update data , delete and search for data. Easier to st
 
 
 ## Preview
-![App Screenshot](https://cdn.discordapp.com/attachments/1007233588066009169/1283148703930257498/Screenshot_4.png?ex=66e1f0da&is=66e09f5a&hm=1adef2f7ad12da2c66025039069e4f598df9c235b406250b2882a5489384c8a1&)
+![Screenshot_4](https://github.com/user-attachments/assets/f988ede5-5c64-4691-959d-cc17d974f970)
+
+
 
 
 ## Acknowledgements
